@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"flow-a-chat-app","appId":"1:739850477670:android:c24a7505b742c2e0da0da7","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"flow-a-chat-app","configurations":{"android":"1:739850477670:android:c24a7505b742c2e0da0da7","ios":"1:739850477670:ios:64d5721ddc8b12c7da0da7"}}}}}}

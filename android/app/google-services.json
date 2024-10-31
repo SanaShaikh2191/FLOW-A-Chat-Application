@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "739850477670",
+    "project_id": "flow-a-chat-app",
+    "storage_bucket": "flow-a-chat-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739850477670:android:c24a7505b742c2e0da0da7",
+        "android_client_info": {
+          "package_name": "com.example.flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739850477670-tu3e8l1609c8bd03bkeihs9i8670is53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flow",
+            "certificate_hash": "aed43ff83e7380611a472d196ec34d275e2fa6c7"
+          }
+        },
+        {
+          "client_id": "739850477670-1hpa6anhmfegptvoh9nuefpg588k43e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNEiGF5HRGWJWZUruDqypEAdDpBbnbzxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739850477670-1hpa6anhmfegptvoh9nuefpg588k43e6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "739850477670-h305lb05nnocacmu6cpcfqhl46j1n0h6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
