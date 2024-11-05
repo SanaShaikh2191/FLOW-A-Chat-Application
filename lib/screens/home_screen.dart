@@ -1,6 +1,8 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flow/constants.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:google_sign_in/google_sign_in.dart';
 
 import '../appbar_theme.dart';
 
@@ -50,7 +52,12 @@ class _HomeScreenState extends State<HomeScreen> {
                   colors: [kcolor1, kcolor2],
                 )),
           ),
-          onPressed: () {},
+          onPressed: () async {
+            //sign out function
+
+            await FirebaseAuth.instance.signOut();
+            await GoogleSignIn().signOut();
+          },
         ));
   }
 }
